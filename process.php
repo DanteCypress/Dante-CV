@@ -3,8 +3,8 @@
 	$email = $_POST["email"];
 	$message = $_POST["message"];
 	 
-	$EmailTo = "youremail@gmail.com"; // change with your email
-	$Subject = "Portfolio CV/Resume";
+	$EmailTo = "dantecypress@gmail.com"; // change with your email
+	$Subject = "Hi Dante!";
 	 
 	// prepare email body text
 	
